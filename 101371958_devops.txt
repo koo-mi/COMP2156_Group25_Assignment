@@ -1,1 +1,2 @@
-This file will contain information about COMP 2156 DevOps course
+This file will contain information about COMP 2156 DevOps course 
+This course helps me learn about Github
