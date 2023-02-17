@@ -1,4 +1,11 @@
+This file conation what in my opinion is the main purpose of DevOps.
+Please do not change this file as it contain MY OPINION.
+If you do not agree that is fine you can create a file with your opinion.
+DO NOT MOD/CHANGE !
+
+
+
 To me the main purpose of devops is to develop 
 and properly maintain any aplication and grant 
 it the ability to develope and test patchs prior
- to mass release
+to mass release
