@@ -1,0 +1,3 @@
+Course code : COMP2165
+Professor: Priteschkumar Patel 
+location: CLE E321
