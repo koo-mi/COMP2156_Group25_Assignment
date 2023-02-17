@@ -11,3 +11,9 @@ Advantages of DevOps Adoption
 	3. Enforce best security practices
 	4. Remove manuial tasks
 	5. Improved communication and collaboration
+
+
+CI/CD is the backbone of the modern DevOps environment.
+
+CI = Continuous Integration 
+CD = Continuous Delivery (or Development)
