@@ -1,3 +1,6 @@
+This file contains information about the DevOpos class.
+If you wish you may add aditional information.
+
 Course code : COMP2165
 Professor: Priteschkumar Patel 
 location: CLE E321
