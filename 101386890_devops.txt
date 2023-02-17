@@ -1,0 +1,28 @@
+******************DevOps******************
+
+DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams.
+
+DevOps team is the combination of development and operations team.
+It helps the business to deliver applications quickly and efficiently.
+
+Advantages of DevOps Adoption
+	1. Reducing IT overhead
+	2. Faster product delivery
+	3. Enforce best security practices
+	4. Remove manuial tasks
+	5. Improved communication and collaboration
+
+
+CI/CD is the backbone of the modern DevOps environment.
+
+CI = Continuous Integration 
+CD = Continuous Delivery (or Development)
+
+
+Categories of Tools in Pipeline:
+	- Source Control
+	- Build Tools
+	- Containerization
+	- Configuration Management
+	- Infrastructure Management
+	- Monitoring / Feedback
