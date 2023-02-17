@@ -17,3 +17,12 @@ CI/CD is the backbone of the modern DevOps environment.
 
 CI = Continuous Integration 
 CD = Continuous Delivery (or Development)
+
+
+Categories of Tools in Pipeline:
+	- Source Control
+	- Build Tools
+	- Containerization
+	- Configuration Management
+	- Infrastructure Management
+	- Monitoring / Feedback
