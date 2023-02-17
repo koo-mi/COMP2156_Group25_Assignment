@@ -2,3 +2,10 @@
 
 SDLC - Software Development Life Cycle
 
+Advantages of SDLC:
+	- Provides standardized framework 
+	- Aids project planning, estimating, and scheduling
+	- Easier project tracking and control
+	- Faster development
+	- Decrease overall cost of production
+
