@@ -1,0 +1,4 @@
+To me the main purpose of devops is to develop 
+and properly maintain any aplication and grant 
+it the ability to develope and test patchs prior
+ to mass release
