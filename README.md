@@ -17,3 +17,15 @@ COMP2156 Group Assignment
 
 
 Hugo - I have Created and added the 3 files that i was required to. Also take a "Nothing_to_see_here" file for a surprise 
+
+
+
+
+======================= Group Details =======================
+
+COMP2156 - Group #25
+
+101185572 - Hugo Vieira Da Costa
+101293219 - Dominic Farebrother
+101371958 - Hoang Loc Luong
+101386890 - Mikael Koo
